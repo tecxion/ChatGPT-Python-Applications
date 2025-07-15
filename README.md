@@ -4,10 +4,6 @@
 
 <br>
 
-<h4 align="center">
-<img src="https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/apg4.png   " width="850">
-</h4>
-
   
 <p><pre align="center">
 <strong>Ver demo : </strong> <a href="https://youtu.be/beEBeQw5tpc   ">​¡Miau!​</a></pre></p>
