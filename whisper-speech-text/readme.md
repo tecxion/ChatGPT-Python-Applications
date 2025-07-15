@@ -4,51 +4,48 @@
 
   
 <p><pre align="center">
-<strong>Watch video demo + explanation : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
+<strong>Ver video demo + explicación : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
 
-### What is it?
+### ¿Qué es?
 
-This chatbot integrated with OpenAI ChatGPT API using Python, is a conversational agent that can interact with users in natural language. It uses the power of machine learning and natural language processing to understand user inputs and generate appropriate responses. It can provide users with a personalized and natural conversational experience.
-
-<br>
-
-### Setup
-
-
-Refer to this [video]() to install the dependencies and generate OpenAI keys and incorporate with our applications. Make sure you've changed the API keys in `pass.yml` file, else it'll raise error `openai.error.AuthenticationError: Incorrect API key provided`. I've articulated the steps in text format here : 
-
-- start this repository
-- Install the dependencies of this repository 
-- Paste your OpenAI API keys in `pass.yml` file
+Este chatbot integrado con la API de ChatGPT de OpenAI usando Python, es un agente conversacional que puede interactuar con usuarios en lenguaje natural. Utiliza el poder del aprendizaje automático y el procesamiento de lenguaje natural para comprender las entradas del usuario y generar respuestas apropiadas. Puede proporcionar a los usuarios una experiencia de conversación personalizada y natural.
 
 <br>
 
-### Features
+### Configuración
 
-- ✒️ automating blogs/news writing as soon as you get an mail
-- ⭐ ask chatbot to do custom work on the bases of the mail
-- 📟 complete access to your mail and automate (title, body, time, sender, number of sender)
-- ⚙️ fully customized attributes depending on the requirements
+Consulta este [video]() para instalar las dependencias y generar claves de OpenAI e incorporarlas a nuestras aplicaciones. Asegúrate de haber cambiado las claves API en el archivo `pass.yml`, de lo contrario generará el error `openai.error.AuthenticationError: Incorrect API key provided`. He detallado los pasos en formato de texto aquí:
 
-<br>
-
-### Contributing
-
-If you would like to contribute more Applications, please follow these guidelines:
-
- 
-1. Fork the repository.
-2. Create a new branch with your feature or bug fix.
-3. Commit your changes and push to your fork.
-4. Create a pull request.
-5. Please create a seperate folder with `readme.md` and updathe the `main/readme.md`
-
+- Clona este repositorio
+- Instala las dependencias de este repositorio
+- Pega tus claves API de OpenAI en el archivo `pass.yml`
 
 <br>
 
-### Further Readings
+### Características
 
-- [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos all about mathematics combined with coding and machine learning. 
-- [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
-- [computational-thinking : python]() : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
-- [Let's Have a intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
+- ✒️ Automatización de escritura de blogs/noticias al recibir un correo
+- ⭐ Pide al chatbot que realice trabajos personalizados basados en el correo
+- 📟 Acceso completo a tu correo y automatización (título, cuerpo, hora, remitente, número de remitente)
+- ⚙️ Atributos completamente personalizables según los requisitos
+
+<br>
+
+### Contribuciones
+
+Si deseas contribuir con más aplicaciones, sigue estas pautas:
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama con tu funcionalidad o corrección de errores.
+3. Realiza tus cambios y envía un push a tu fork.
+4. Crea un pull request.
+5. Por favor crea una carpeta separada con `readme.md` y actualiza el `main/readme.md`
+
+<br>
+
+### Lecturas adicionales
+
+- [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos sobre matemáticas combinadas con programación y aprendizaje automático.
+- [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Explico cómo utilicé tecnologías para prosperar.
+- [pensamiento-computacional : python]() : Mi curso de Python para entrevistas de programación (LeetCode). (Grabado / 1:1)
+- [Tengamos una conversación intelectual](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
