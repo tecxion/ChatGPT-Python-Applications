@@ -4,6 +4,11 @@
 
 <br>
 
+>[!IMPORTANT]
+>El original está al final del readme, yo lo que hice fue traducir lo interesante y quitar cosas innecesarias.
+
+<br>
+
   
 <p><pre align="center">
 <strong>Ver demo : </strong> <a href="https://youtu.be/beEBeQw5tpc   ">​¡Miau!​</a></pre></p>
@@ -16,21 +21,6 @@ Las aplicaciones en este repositorio están diseñadas para mostrar la versatili
 
 En general, el repositorio "ChatGPT Python Applications" es un recurso valioso para los desarrolladores que buscan integrar ChatGPT en sus proyectos o explorar el potencial del procesamiento del lenguaje natural con Python.
 
-<br>
-
-
-<br>
-
-<p align="center">
-Autor : 
-  <a href="https://github.com/xiaowuc2   ">
-    @xiaowuc2
-  </a>
-
-</p>
-
-
-Soy un investigador de Machine Learning, actualmente trabajando en IBM con experiencia en resolver problemas del mundo real a través de la programación. He enseñado a más de 20,000 estudiantes y profesionales para superar entrevistas de codificación y conseguir su trabajo soñado en TCS, Walmart, Accenture, Cognizant. Mi investigación ha sido reconocida a través de publicaciones en revistas prestigiosas como Springer[^1] y O'Reilly[^2]. 
 
 - [computational-thinking : python](https://xiaowuc2.vercel.app/posts/computational-thinking-python   ) : Mi curso de Python para superar entrevistas de codificación (LeetCode). (Grabado / 1:1)
 - [@qxresearch](https://www.youtube.com/   @qxresearch/) : Videos sobre matemáticas combinadas con programación y aprendizaje automático.
@@ -88,18 +78,9 @@ Si deseas contribuir con más aplicaciones, por favor sigue estas pautas:
 5. Por favor, crea una carpeta separada con `readme.md` y actualiza el `main/readme.md`
 
 
-<br>
 
 
-[^1]: Predicción del contenido de agua en la agricultura inteligente de la India rural utilizando CNN y enfoques de Transferencia de Aprendizaje. [Enlace](https://www.oreilly.com/library/view/intelligent-decision-support/9781119896432/c10.xhtml   )
-[^2]: Detección de Alzheimer desequilibrada basada en Variational Autoencoder usando imágenes de resonancia magnética cerebral. [Enlace](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_14   )
-
->[!IMPORTANT]
->El original está al final del readme.
-
-
-
-
+---
 
 ## REPOSITORIO ORIGINAL
 ---
