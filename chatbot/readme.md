@@ -1,57 +1,53 @@
 <h4 align="center">
-<img src="https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/ss4.png" width="850">
+<img src="https://github.com/xiaowuc2/ChatGPT-Python-Applications/blob/main/resource/ss4.png   " width="850">
 </h4>
 
   
 <p><pre align="center">
-<strong>Watch video demo + explanation : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
+<strong>Ver video demo + explicación : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA   ">​YouTube​</a></pre></p>
 
-### What is it?
+### ¿Qué es?
 
-This chatbot integrated with OpenAI ChatGPT API using Python, is a conversational agent that can interact with users in natural language. It uses the power of machine learning and natural language processing to understand user inputs and generate appropriate responses. It can provide users with a personalized and natural conversational experience.
-
-<br>
-
-### Setup
-
-
-Refer to this [video]() to install the dependencies and generate OpenAI keys and incorporate with our applications. Make sure you've changed the API keys in `pass.yml` file, else it'll raise error `openai.error.AuthenticationError: Incorrect API key provided`. I've articulated the steps in text format here : 
-
-- start this repository
-- Install the dependencies of this repository 
-- Paste your OpenAI API keys in `pass.yml` file
+Este chatbot integrado con la API de OpenAI ChatGPT usando Python es un agente conversacional que puede interactuar con los usuarios en lenguaje natural. Utiliza el poder del aprendizaje automático y el procesamiento del lenguaje natural para comprender las entradas de los usuarios y generar respuestas apropiadas. Puede proporcionar a los usuarios una experiencia conversacional personalizada y natural.
 
 <br>
 
-### Features
+### Configuración
 
-Subscribe to the YouTube channel [@qxresearch](https://www.youtube.com/@qxresearch/) to receive updates on new projects/updates! 
-Which also enables you to join a community of like-minded Python enthusiasts and stay connected with a passionate group of learners and experts.
+Consulta este [video]() para instalar las dependencias y generar claves de OpenAI e incorporarlas en nuestras aplicaciones. Asegúrate de haber cambiado las claves de API en el archivo `pass.yml`, de lo contrario, se generará el error `openai.error.AuthenticationError: Incorrect API key provided`. He detallado los pasos en formato de texto aquí:
 
-- ✒️ give internet access to ChatGPT
-- ⭐ Google Colab Link : [chatbot-colab](https://colab.research.google.com/drive/1-irHRZEUCbfon_gO8MIfnvZpwZ9CnJqR?usp=sharing)
-- ✨ google Colab keeps the service running for 72 hours (for free)
-- ⚙️ fully customized attributes depending on the requirements
+- Dale una estrella a este repositorio.
+- Instala las dependencias de este repositorio.
+- Pega tus claves de API de OpenAI en el archivo `pass.yml`.
 
 <br>
 
-### Contributing
+### Características
 
-If you would like to contribute more Applications, please follow these guidelines:
+Suscríbete al canal de YouTube [@qxresearch](https://www.youtube.com/   @qxresearch/) para recibir actualizaciones sobre nuevos proyectos/actualizaciones. Esto también te permitirá unirte a una comunidad de entusiastas de Python con ideas afines y mantenerte conectado con un grupo apasionado de estudiantes y expertos.
 
- 
-1. Fork the repository.
-2. Create a new branch with your feature or bug fix.
-3. Commit your changes and push to your fork.
-4. Create a pull request.
-5. Please create a seperate folder with `readme.md` and updathe the `main/readme.md`
-
+- ✒️ otorga acceso a internet a ChatGPT.
+- ⭐ Enlace de Google Colab: [chatbot-colab](https://colab.research.google.com/drive/1-irHRZEUCbfon_gO8MIfnvZpwZ9CnJqR?usp=sharing).
+- ✨ Google Colab mantiene el servicio en funcionamiento durante 72 horas (gratis).
+- ⚙️ atributos completamente personalizados según los requisitos.
 
 <br>
 
-### Further Readings
+### Contribuciones
 
-- [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos all about mathematics combined with coding and machine learning. 
-- [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
-- [computational-thinking : python]() : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
-- [Let's Have a intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
+Si deseas contribuir con más aplicaciones, sigue estas pautas:
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama con tu función o corrección de errores.
+3. Confirma tus cambios y haz push a tu fork.
+4. Crea una solicitud de pull.
+5. Por favor, crea una carpeta separada con `readme.md` y actualiza el `main/readme.md`.
+
+<br>
+
+### Lecturas adicionales
+
+- [@qxresearch](   https://www.youtube.com/   @qxresearch/) : Videos sobre matemáticas combinadas con programación y aprendizaje automático.
+- [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts   ) : Articulé la forma en que utilicé tecnologías para prosperar.
+- [computational-thinking : python]() : Mi curso de Python para superar entrevistas de codificación (LeetCode). (Grabado / 1:1)
+- [Tengamos una conversación intelectual](https://www.linkedin.com/in/xiaowuc2/   ) : `rohitmandal814566@gmail.com`
