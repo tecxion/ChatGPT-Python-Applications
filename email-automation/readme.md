@@ -1,52 +1,49 @@
 <h1 align="center">
-<img src="https://github.com/xiaowuc2/cool-odd/blob/main/source/abc.png" width="150">
+<img src="https://github.com/xiaowuc2/cool-odd/blob/main/source/abc.png   " width="150">
 </h1>
 
 <p><pre align="center">
-<strong>Watch a video demo : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">​YouTube​</a></pre></p>
+<strong>Ver una demostración en video : </strong> <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA   ">​YouTube​</a></pre></p>
 
-### What is it?
+### ¿Qué es?
 
-**email-automation** is a Python implementaton of email autmation integrated with chatgpt using imap (Internet Mail Access Protocol) and email module. Where you'll be able to select few particular mail address from which you can choose the read the unseen mails and from that body part chatgpt will write blog/news/post as per your requirements. 
+**email-automation** es una implementación en Python de automatización de correo electrónico integrada con ChatGPT utilizando IMAP (Protocolo de Acceso a Correo por Internet) y el módulo de correo electrónico. Con esta herramienta, podrás seleccionar algunas direcciones de correo específicas desde las cuales podrás leer los correos no vistos, y a partir del cuerpo de esos correos, ChatGPT escribirá blogs/noticias/publicaciones según tus requisitos.
 
-### Requirements 
+### Requisitos
 
-- [x] 2-step verification in google account (target email) - [Link](https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome)
-- [x] share the `app password` (for google's security reasons) 
-- [x] turn on 'status : IMAP' from mail settings under : `Forwarding and POP/IMAP` - [Link](https://mail.google.com/mail/u/0/#settings/fwdandpop)
+- [x] Verificación en dos pasos en la cuenta de Google (correo electrónico objetivo) - [Enlace](https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome   )
+- [x] Compartir la `contraseña de la aplicación` (por razones de seguridad de Google).
+- [x] Activar 'estado: IMAP' en la configuración del correo bajo: `Reenvío y POP/IMAP` - [Enlace](https://mail.google.com/mail/u/0/#settings/fwdandpop)
 
-### Features
+### Características
 
-- ✒️ automating blogs/news writing as soon as you get an mail
-- ⭐ ask chatbot to do custom work on the bases of the mail
-- 📟 complete access to your mail and automate (title, body, time, sender, number of sender)
-- ⚙️ fully customized attributes depending on the requirements
+- ✒️ Automatización de la escritura de blogs/noticias tan pronto como recibas un correo.
+- ⭐ Pedir al chatbot que realice trabajos personalizados basados en el correo.
+- 📟 Acceso completo a tu correo y automatización (título, cuerpo, hora, remitente, número de remitentes).
+- ⚙️ Atributos completamente personalizados según los requisitos.
 
-### Input Attributes 
+### Atributos de Entrada
 
-- **how_many :** how many unseen mails you want to check (default : 10)
-- **maxtoken :** what is the maximum number of charecters you want in your blog (default : 200 characters)
-- **what_to_ask :** what do you want to ask chatgpt to do (default : write an blog about)
-- **num_target :** number of targeted emails (default : None)
+- **how_many :** cuántos correos no vistos deseas revisar (predeterminado: 10).
+- **maxtoken :** ¿cuál es el número máximo de caracteres que deseas en tu blog? (predeterminado: 200 caracteres).
+- **what_to_ask :** ¿qué deseas pedirle a ChatGPT que haga? (predeterminado: escribir un blog sobre).
+- **num_target :** número de correos electrónicos objetivo (predeterminado: Ninguno).
 
+### Contribuciones
 
-### Contributing
+Si deseas contribuir con más aplicaciones, sigue estas pautas:
 
-If you would like to contribute more Applications, please follow these guidelines:
-
- 
-1. Fork the repository.
-2. Create a new branch with your feature or bug fix.
-3. Commit your changes and push to your fork.
-4. Create a pull request.
-5. Please create a seperate folder with `readme.md` and updathe the `main/readme.md`
-
+1. Haz un fork del repositorio.
+2. Crea una nueva rama con tu función o corrección de errores.
+3. Confirma tus cambios y haz push a tu fork.
+4. Crea una solicitud de pull.
+5. Por favor, crea una carpeta separada con `readme.md` y actualiza el `main/readme.md`.
 
 <br>
 
-### Further Readings
+### Lecturas adicionales
 
-- [@qxresearch](https://www.youtube.com/@qxresearch/) : Videos all about mathematics combined with coding and machine learning. 
-- [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts) : Articulated the way I used technologies to thrive.
-- [computational-thinking : python]() : My Python course to crack coding interviews (LeetCode). (Recorded / 1:1)
-- [Let's Have a intellectual conversation](https://www.linkedin.com/in/xiaowuc2/) : `rohitmandal814566@gmail.com`
+- [@qxresearch](   https://www.youtube.com/   @qxresearch/) : Videos sobre matemáticas combinadas con programación y aprendizaje automático.
+- [@xiaowuc2-blog](https://xiaowuc2.vercel.app/posts   ) : Articulé la forma en que utilicé tecnologías para prosperar.
+- [computational-thinking : python]() : Mi curso de Python para superar entrevistas de codificación (LeetCode). (Grabado / 1:1)
+- [Tengamos una conversación intelectual](https://www.linkedin.com/in/xiaowuc2/   ) : `rohitmandal814566@gmail.com`
